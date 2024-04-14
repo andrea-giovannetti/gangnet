@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gangnet_side_logo.png"
+  avatar           : "profile.png"
   name             : "GANGNeT - A E.U. Project"
   pronouns         : # example: "she/her"  
   bio              : "GANGNeT is a project aiming at improving the resilience and security of European Urban Communities"
