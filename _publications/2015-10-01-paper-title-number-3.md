@@ -1,12 +1,9 @@
 ---
-title: "Paper Title Number 3"
+title: "The structure of cooperation among organised crime groups:  A network study of Merseyside, UK"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /_publications/Merseyside
+excerpt: 'No person is an island, and neither are criminal groups. Yet, limited attention has been paid by criminologists to the relational patterns established among groups operating within the same locale. In this paper, we study the structure and determinants of cooperative interactions among organized crime groups (OCGs) operating in Merseyside (UK). We leverage a police dataset including 5,239 crime reports handled by Merseyside Police between January 2015 and March 2018 (42 full months of data) concerning 1,211 OCG members belonging to 134 OCGs. '
+date: 2024-01-20
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
