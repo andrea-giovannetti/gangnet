@@ -1,7 +1,7 @@
 ---
 title: "How Organized Crime Groups Interact: A Theory of Differential Cooperation"
 collection: publications
-permalink: /publication/OCG_Interaction
+permalink: /publications/OCG_Interaction
 excerpt: 'Interactions between organized crime groups (OCGs) are under-explored in the literature. We study the determinants of cooperative interactions among OCGs operating in Merseyside (UK) using the complete crime dataset integrated with neighborhood-level socio-economic data and sentencing outcomes.'
 date: 2023-12-01
 venue: 'Submitted'
